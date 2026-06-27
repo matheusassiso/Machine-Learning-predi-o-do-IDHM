@@ -9,6 +9,15 @@
 
 ---
 
+
+---
+
+## Dashboard — An&aacute;lise Explorat&oacute;ria de Dados (EDA)
+
+[![Dashboard EDA](https://img.shields.io/badge/Dashboard-An%C3%A1lise%20Explorat%C3%B3ria-1565C0?style=for-the-badge&logo=html5&logoColor=white)](https://matheusassiso.github.io/Machine-Learning-predi-o-do-IDHM/dashboard_eda.html)
+
+> [**&rarr; Abrir Dashboard Interativo**](https://matheusassiso.github.io/Machine-Learning-predi-o-do-IDHM/dashboard_eda.html) &mdash; s&eacute;rie temporal do IDHM por estado, correla&ccedil;&otilde;es, dispers&atilde;o com regress&atilde;o, distribui&ccedil;&otilde;es e tabela completa. HTML puro, sem servidor.
+
 ## Visão Geral
 
 Este projeto aplica o algoritmo **Random Forest** para prever o **Índice de Desenvolvimento Humano Municipal (IDHM)** dos estados brasileiros no período de **2012 a 2021**, utilizando dados socioeconômicos disponibilizados pelo Atlas Brasil (IBGE/PNUD).
