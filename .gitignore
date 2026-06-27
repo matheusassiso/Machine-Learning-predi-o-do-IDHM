@@ -1,0 +1,17 @@
+# R workspace and history
+.RData
+.Rhistory
+.RDataTmp
+
+# Compiled outputs
+*.html
+*.pdf
+*.docx
+*.aux
+*.log
+*.out
+*.tex
+
+# OS files
+.DS_Store
+Thumbs.db
