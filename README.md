@@ -12,11 +12,13 @@
 
 ---
 
-## Dashboard — An&aacute;lise Explorat&oacute;ria de Dados (EDA)
+## Abrir o HTML no navegador
 
-[![Dashboard EDA](https://img.shields.io/badge/Dashboard-An%C3%A1lise%20Explorat%C3%B3ria-1565C0?style=for-the-badge&logo=html5&logoColor=white)](https://matheusassiso.github.io/Machine-Learning-predi-o-do-IDHM/dashboard_eda.html)
+[Baixe o ZIP do repositório](https://github.com/matheusassiso/Machine-Learning-predi-o-do-IDHM/archive/refs/heads/main.zip), extraia o conteúdo e abra [`docs/dashboard_eda.html`](docs/dashboard_eda.html) no navegador.
 
-> [**&rarr; Abrir Dashboard Interativo**](https://matheusassiso.github.io/Machine-Learning-predi-o-do-IDHM/dashboard_eda.html) &mdash; s&eacute;rie temporal do IDHM por estado, correla&ccedil;&otilde;es, dispers&atilde;o com regress&atilde;o, distribui&ccedil;&otilde;es e tabela completa. HTML puro, sem servidor.
+Os gráficos e a tabela interativa carregam bibliotecas pela internet.
+
+O painel apresenta a série temporal do IDHM por estado, correlações, dispersão com regressão, distribuições e a tabela completa. Na série temporal, selecione os estados que deseja comparar. Na dispersão, escolha a variável no eixo X, o agrupamento por cor e o ano. As seções de dados e análise exploratória abaixo documentam as variáveis e os resultados.
 
 ## Visão Geral
 
